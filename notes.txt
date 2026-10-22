@@ -1,2 +1,4 @@
 Git is a distributed version control system.
 A commit saves a snapshot of your project.
+A branch lets you work on features separately.
+Merging combines changes from one branch into another.
